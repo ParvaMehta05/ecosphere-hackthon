@@ -23,12 +23,12 @@
         <field name="model">ecosphere.social</field>
 
         <field name="arch" type="xml">
-            <tree string="Social Activities">
+            <list string="Social Activities">
                 <field name="name"/>
                 <field name="employee_name"/>
                 <field name="activity_type"/>
                 <field name="points"/>
-            </tree>
+            </list>
         </field>
 
     </record>

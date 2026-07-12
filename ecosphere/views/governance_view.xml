@@ -27,14 +27,14 @@
 
 <field name="arch" type="xml">
 
-<tree>
+<list>
 
 <field name="organization_name"/>
 <field name="board_members"/>
 <field name="independent_directors"/>
 <field name="compliance_score"/>
 
-</tree>
+</list>
 
 </field>
 

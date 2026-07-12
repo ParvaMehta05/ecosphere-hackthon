@@ -20,14 +20,14 @@
         <field name="res_model">ecosphere.environmental</field>
         <field name="arch" type="xml">
 
-            <tree string="Environmental Data">
+            <list string="Environmental Data">
                 <field name="organization_name"/>
                 <field name="electricity_usage"/>
                 <field name="water_usage"/>
                 <field name="carbon_emission"/>
                 <field name="waste_generated"/>
                 <field name="reporting_year"/>
-            </tree>
+            </list>
 
         </field>
     </record>
