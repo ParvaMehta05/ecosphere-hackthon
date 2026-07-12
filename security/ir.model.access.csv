@@ -1,0 +1,9 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ecosphere_department,ecosphere.department,model_ecosphere_department,base.group_user,1,1,1,1
+access_ecosphere_category,ecosphere.category,model_ecosphere_category,base.group_user,1,1,1,1
+access_ecosphere_badge,ecosphere.badge,model_ecosphere_badge,base.group_user,1,1,1,1
+access_ecosphere_reward,ecosphere.reward,model_ecosphere_reward,base.group_user,1,1,1,1
+access_ecosphere_emission_factor,ecosphere.emission.factor,model_ecosphere_emission_factor,base.group_user,1,1,1,1
+access_ecosphere_product_profile,ecosphere.product.profile,model_ecosphere_product_profile,base.group_user,1,1,1,1
+access_ecosphere_environmental_goal,ecosphere.environmental.goal,model_ecosphere_environmental_goal,base.group_user,1,1,1,1
+access_ecosphere_policy,ecosphere.policy,model_ecosphere_policy,base.group_user,1,1,1,1
